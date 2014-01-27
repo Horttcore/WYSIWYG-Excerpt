@@ -105,4 +105,4 @@ class WYSIWYG_Excerpt {
 
 }
 
-$WYSIWYG_Excerpt = new WYSIWYG_Excerpt;
+new WYSIWYG_Excerpt;
